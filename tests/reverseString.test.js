@@ -1,4 +1,4 @@
-const reverseString = require('./reverseString');
+const reverseString = require('../scripts/reverseString');
 
 test('Not a valid string', () => {
   expect(() => {
